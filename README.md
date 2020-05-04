@@ -21,7 +21,7 @@ Site Map (https://docs.google.com/document/d/1ofwhK1UHcszy-0q9aheNqbu_WXU9UuhZe-
 Project Requirements:
 
 1. One single repository    
-2. 10 major "feature" commits per team member (fixes must be marked as fixes and do not count)  
+2. 10 major "feature" commits per team member (fixes to feature must be marked as "fixes" and do not count and non-feature work – creating or renaming files – should be named "task")
 3. Use Helvetica font stack 
 4. Submit link to GitHub repository 
 
