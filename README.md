@@ -28,12 +28,16 @@ Project Requirements:
 Resources:
 
 1. IS117 Things to Know (Linux, WebStorm, Git): https://docs.google.com/presentation/d/15vNPqxMFQhtSdNABTu7-ezpwz1pffrbCKjXVZ0Egi7E/edit#slide=id.p
-2. Basic CSS and CSS Layouts: https://docs.google.com/presentation/d/1jjo_45WE3cVWB-GFyEsdmUds72fIPpRxTCs6OtyHsQ0/edit#slide=id.p 
-3. F-Layout Template: https://docs.google.com/drawings/d/1QiA5kxSFOVOeSDEUrBNds-AHYWSG-GYcrzivaBBfTTA/edit
-4. Z-Layout Template: https://docs.google.com/drawings/d/1ErkWT2nYvbT1r2ynEqtcLYKmlQ6hUkiCqo0QgGQZkQ0/edit
-5. Chrome Dev Tools: https://developers.google.com/web/tools/chrome-devtools
-6. Git Flow Explained: https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f
-7. Boilerplate/F-Layout Example: https://github.com/kaw393939/boilerplateExample/tree/z-layout
-8. Five Page Website Example: https://github.com/kaw393939/is117Class2
-9. Git Intro: https://www.youtube.com/watch?v=lyz1FrlnIWs&feature=youtu.be
+2. WebStorm Instructions: https://njit.instructure.com/courses/11191/files/484276/download?download_frd=1
+3. Git Instructions: https://njit.instructure.com/courses/11191/files/484276/download?download_frd=1
+4. Git Intro (Git vs. GitHub): https://www.youtube.com/watch?v=lyz1FrlnIWs&feature=youtu.be
+3. Basic CSS and CSS Layouts: https://docs.google.com/presentation/d/1jjo_45WE3cVWB-GFyEsdmUds72fIPpRxTCs6OtyHsQ0/edit#slide=id.p 
+4. F-Layout Template: https://docs.google.com/drawings/d/1QiA5kxSFOVOeSDEUrBNds-AHYWSG-GYcrzivaBBfTTA/edit
+5. Z-Layout Template: https://docs.google.com/drawings/d/1ErkWT2nYvbT1r2ynEqtcLYKmlQ6hUkiCqo0QgGQZkQ0/edit
+6. F/Z Layouts and More CSS: https://www.youtube.com/watch?v=RDgcndmugwc
+6. Chrome Dev Tools: https://developers.google.com/web/tools/chrome-devtools
+7. Git Flow Explained: https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f
+8. Boilerplate/F-Layout Example: https://github.com/kaw393939/boilerplateExample/tree/z-layout
+9. Five Page Website Example: https://github.com/kaw393939/is117Class2
 10. IS 117 Playlist: https://www.youtube.com/playlist?list=PLytMRtonvCRUURDsCZ3WhJ3I2hTa11TvV
+11. Helvetica Explained: https://www.youtube.com/watch?v=dRSU-0PTR0s
