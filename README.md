@@ -1,4 +1,5 @@
-# is117-team-project-1
+# is117-team-project-1TEST
+#TEST/PRACTICE REPOSITORY FOR OFFICAL IS117-TEAM-PROJECT1
 IS 117 Team Project 1
 Group: Alex Kim and Eileen Sanchez
 
