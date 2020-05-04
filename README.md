@@ -24,3 +24,16 @@ Project Requirements:
 2. 10 major "feature" commits per team member (fixes must be marked as fixes and do not count)  
 3. Use Helvetica font stack 
 4. Submit link to GitHub repository 
+
+Resources:
+
+1. IS117 Things to Know (Linux, WebStorm, Git): https://docs.google.com/presentation/d/15vNPqxMFQhtSdNABTu7-ezpwz1pffrbCKjXVZ0Egi7E/edit#slide=id.p
+2. Basic CSS and CSS Layouts: https://docs.google.com/presentation/d/1jjo_45WE3cVWB-GFyEsdmUds72fIPpRxTCs6OtyHsQ0/edit#slide=id.p 
+3. F-Layout Template: https://docs.google.com/drawings/d/1QiA5kxSFOVOeSDEUrBNds-AHYWSG-GYcrzivaBBfTTA/edit
+4. Z-Layout Template: https://docs.google.com/drawings/d/1ErkWT2nYvbT1r2ynEqtcLYKmlQ6hUkiCqo0QgGQZkQ0/edit
+5. Chrome Dev Tools: https://developers.google.com/web/tools/chrome-devtools
+6. Git Flow Explained: https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f
+7. Boilerplate/F-Layout Example: https://github.com/kaw393939/boilerplateExample/tree/z-layout
+8. Five Page Website Example: https://github.com/kaw393939/is117Class2
+9. Git Intro: https://www.youtube.com/watch?v=lyz1FrlnIWs&feature=youtu.be
+10. IS 117 Playlist: https://www.youtube.com/playlist?list=PLytMRtonvCRUURDsCZ3WhJ3I2hTa11TvV
