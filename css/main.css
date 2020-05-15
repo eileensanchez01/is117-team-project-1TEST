@@ -1,4 +1,4 @@
-/*! HTML5 Boilerplate v7.2.0 | MIT License | https://html5boilerplate.com/ */
+/*! HTML5 Boilerplate v7.3.0 | MIT License | https://html5boilerplate.com/ */
 
 /* main.css 2.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
 /*
@@ -99,10 +99,67 @@ textarea {
    ========================================================================== */
 #wrapper {
   width: 960px;
+  font-size: 19px;
+  line-height: 32px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+#menu{
+  height: 120px;
+  line-height: 120px;
+}
+.margin_left_right_auto{
   margin-left: auto;
   margin-right: auto;
 }
-
+.gr_width_large{
+  width: 593px;
+}
+.gr_width_small{
+  width: 367px;
+}
+.float_left{
+  float: left;
+}
+.float_right{
+  float: right;
+}
+.clear_float{
+  clear: both;
+}
+.reset_margin_padding{
+  margin: 0px;
+  padding: 0px;
+}
+#masthead{
+  height: 74px;
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  background-position-y: center;
+  margin-bottom: 45px;
+}
+#masthead_landing{
+  height: 367px;
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  background-position-y: center;
+  margin-bottom: 45px;
+}
+#menu li {
+  display: inline;
+}
+#side_photo{
+  width: 320px;
+}
+.text_center{
+  text-align: center;
+}
+.callout{
+  width: 320px;
+  height: 196px;
+}
+.position_absolute{
+  position: absolute;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -216,7 +273,6 @@ textarea {
     background: transparent !important;
     color: #000 !important;
     /* Black prints faster */
-    -webkit-box-shadow: none !important;
     box-shadow: none !important;
     text-shadow: none !important;
   }
@@ -268,3 +324,4 @@ textarea {
     page-break-after: avoid;
   }
 }
+
